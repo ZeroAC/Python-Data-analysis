@@ -1,17 +1,30 @@
 {
   "cSpell.words": [
     "Aaaah",
+    "bogosort",
+    "bogosortv",
+    "dsplit",
+    "dstack",
     "dtypes",
     "ggplot",
+    "hsplit",
+    "hstack",
     "imag",
     "interp",
     "jieba",
     "Knigget",
     "lval",
     "matsushima",
+    "myscript",
+    "nbytes",
     "plotly",
+    "randn",
     "Rossum",
     "rval",
-    "scipy"
+    "scipy",
+    "Similary",
+    "timeit",
+    "vsplit",
+    "vstack"
   ]
 }
